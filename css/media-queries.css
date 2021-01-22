@@ -1,0 +1,7 @@
+@media screen and (min-width: 1440px) {
+    body {
+        background-position-y: 22rem, -34rem;
+        background-position-x: 45.7rem, -24rem;
+        background-size: 70rem, 70rem;
+    }
+}
